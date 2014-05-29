@@ -1,0 +1,24 @@
+{
+  "name": "moko-change-saved",
+  "version": "0.1.0",
+  "description": "'change saved' event for moko",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mokojs/change-saved"
+  },
+  "keywords": [
+    "moko",
+    "moko-plugin",
+    "save"
+  ],
+  "author": "Ryan Schmukler <ryan@slingingcode.com> (http://slingingcode.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mokojs/change-saved/issues"
+  },
+  "homepage": "https://github.com/mokojs/change-saved"
+}
